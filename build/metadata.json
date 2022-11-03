@@ -1,0 +1,6 @@
+{
+  "name": "lightnin-app-test",
+  "identifier": "com.domain.app.lightninapptest",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}
